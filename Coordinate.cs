@@ -1,3 +1,7 @@
+// Coordinate.cs
+// By Jaime Olivares
+// Location: http://github.com/jaime-olivares/coordinate
+
 using System;
 using System.Text;
 using System.Xml;
